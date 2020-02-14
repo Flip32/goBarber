@@ -1,0 +1,5 @@
+/src/environments.js
+src/config/auth.js
+/node_modules
+/src/config/auth.js
+.env
